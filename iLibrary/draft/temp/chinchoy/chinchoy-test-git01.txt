@@ -1,2 +1,3 @@
 chinchoy-test-git01: Hello World! I am testing github!
 songpeng-test-git01: Hello World! I am testing github!
+chinchoy-test-git01: This is 3rd line!
